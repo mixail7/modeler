@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Modeler.modeler.ModelerTreeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ContextMenu x:Key="TreeMenu" Opened="TreeMenu_OnOpened">
+            <MenuItem Header="Переименовать" Name="MenuRename" Click="MenuItemRename_OnClick"/>
+            <MenuItem Header="Удалить" Name="MenuDelete" Click="MenuItemDelete_OnClick"/>
+            <MenuItem Header="Добавить модель" Name="MenuAdd" Click="MenuItemAdd_OnClick" />
+            <MenuItem Header="Генерировать код" Name="MenuGenerate" Click="MenuGenerateCode_OnClick" />
+        </ContextMenu>
+    </UserControl.Resources>
+    <Grid>
+        <TreeView Name="MyTree" TreeViewItem.Expanded="MyTree_OnExpanded" MouseDoubleClick="MyTree_OnMouseDoubleClick"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="BlockLibrary_Pal.Output_ToolBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            d:DesignHeight="80" d:DesignWidth="80">
+  <Grid Margin="0,20,0,20" MouseMove="Grid_MouseMove" MouseDown="Grid_MouseDown">
+    <Rectangle Fill="Transparent"></Rectangle>
+    <Viewbox 
+      Margin="4"  
+      Stretch="Fill"
+      VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+      Height="Auto"  Width="Auto">
+      <Path Stroke="Black">
+        <Path.Data>M 0,0 L 40,0 L 50,40 L 10,40 Z</Path.Data>
+      </Path>
+    </Viewbox>
+    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Вывод</TextBlock>
+  </Grid>
+</UserControl>

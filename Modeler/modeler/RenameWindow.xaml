@@ -1,0 +1,15 @@
+﻿<Window x:Class="Modeler.RenameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RenameWindow" Height="143" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0">Задайте новое значение имени элемента</Label>
+        <TextBox Name="NewNameTextBox" HorizontalAlignment="Stretch" Grid.Row="1" Margin="5"></TextBox>
+        <Button Grid.Row="2" Click="ButtonBase_OnClick" HorizontalAlignment="Center" Margin="5" Focusable="True">Сохранить</Button>
+    </Grid>
+</Window>

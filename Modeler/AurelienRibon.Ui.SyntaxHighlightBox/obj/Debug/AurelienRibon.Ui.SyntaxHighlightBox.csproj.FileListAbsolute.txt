@@ -1,0 +1,33 @@
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\src\SyntaxHighlightBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox_MarkupCompile.lref
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\src\SyntaxHighlightBox.baml
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.g.resources
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Documents and Settings\admin\Мои документы\Downloads\syntaxhighlightbox-18a16149c7b1\syntaxhighlightbox_18a16149c7b1\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\src\SyntaxHighlightBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox_MarkupCompile.lref
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\src\SyntaxHighlightBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.g.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\src\SyntaxHighlightBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\src\SyntaxHighlightBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.g.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\AurelienRibon.Ui.SyntaxHighlightBox\obj\Debug\AurelienRibon.Ui.SyntaxHighlightBox.csprojResolveAssemblyReference.cache

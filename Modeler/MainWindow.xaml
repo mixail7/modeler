@@ -1,0 +1,125 @@
+﻿<Window x:Class="Modeler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:avalondock="clr-namespace:AvalonDock.Layout;assembly=AvalonDock"
+        xmlns:avalonDock="clr-namespace:AvalonDock;assembly=AvalonDock" 
+        xmlns:s="clr-namespace:DiagramDesigner"
+        xmlns:forms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:syntaxHighlightBox="clr-namespace:AurelienRibon.Ui.SyntaxHighlightBox;assembly=AurelienRibon.Ui.SyntaxHighlightBox"
+        xmlns:modeler="clr-namespace:Modeler.modeler"
+        WindowStartupLocation="CenterScreen"
+        Title="Modeler v0.1" WindowState="Maximized" Closing="Window_Closing" >
+    <Window.Resources>
+        
+        <ContextMenu x:Key="DesignerCanvasContextMenu">
+            <MenuItem Header="Paste" Command="{x:Static ApplicationCommands.Paste}">
+                <MenuItem.Icon>
+                    <Image Source="Resources/Images/Paste.png" Width="16"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem Header="Select All" Command="{x:Static s:DesignerCanvas.SelectAll}"/>
+        </ContextMenu>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" ></RowDefinition>
+            <RowDefinition Height="Auto" ></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!-- Start menu-->
+        <Menu Grid.Row="0">
+            <MenuItem Header="ФАЙЛ">
+                <MenuItem Header="Новый проект" Name="NewProjectButton" Click="NewProjectButton_OnClick" ></MenuItem>
+                <MenuItem Header="Открыть проект" Name="OpenProjectButton" Click="OpenProjectButton_OnClick"></MenuItem>
+                <MenuItem Header="Сохранить проект" Name="SaveProjectButton"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Настройки" Name="SitingButton"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Выход" Click="MenuItem_OnClick"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="ПРАВКА">
+                <MenuItem Header="Отменить"></MenuItem>
+                <MenuItem Header="Вернуть"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Вырезать"></MenuItem>
+                <MenuItem Header="Копировать"></MenuItem>
+                <MenuItem Header="Вставить"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <!-- end menu -->
+        <!-- start toolbar -->
+        <ToolBarPanel Grid.Row="1" >
+            <ToolBar HorizontalAlignment="Left" Width="Auto" Margin="5 0 5 0">
+                <Button Name="SaveCodeButton" Click="SaveCodeButton_OnClick">
+                    <Image Source="Resources/img/save.ico" Height="25"></Image>
+                </Button>
+                <Button>
+                    <Image Source="Resources/img/saveall.ico" Height="25"></Image>
+                </Button>
+                <Button Name="GenerateCode" Click="GenerateCode_OnClick">
+                    <Image Source="Resources/img/generate.ico" Height="25"></Image>
+                </Button>
+            </ToolBar>
+        </ToolBarPanel>
+        <!-- end toolbar -->
+        <!-- Start layaut -->
+        <avalonDock:DockingManager Grid.Row="2">
+            <avalondock:LayoutRoot>
+                <avalondock:LayoutPanel Orientation="Horizontal">
+                    <avalondock:LayoutAnchorablePaneGroup DockWidth="300" Orientation="Vertical">
+                        <avalondock:LayoutAnchorablePane>
+                            <avalondock:LayoutAnchorable Title="Обозреватель проекта">
+                                <!--TreeViewItem.Expanded="ProjectTreeView_OnExpanded" MouseDoubleClick="ProjectTreeView_OnMouseDoubleClick"-->
+                                <modeler:ModelerTreeView x:Name="ProjectTreeView" />
+                            </avalondock:LayoutAnchorable>
+                        </avalondock:LayoutAnchorablePane>
+                        <avalondock:LayoutAnchorablePane>
+                            <avalondock:LayoutAnchorable Title="Библиотека примитивов" >
+                                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                                    <StackPanel Name="ToolBoxStackPanel"></StackPanel>
+                                </ScrollViewer>
+                            </avalondock:LayoutAnchorable>
+                        </avalondock:LayoutAnchorablePane>
+                    </avalondock:LayoutAnchorablePaneGroup>
+                    <avalondock:LayoutDocumentPaneGroup Orientation="Vertical" >
+                        <avalondock:LayoutDocumentPane x:Name="MainDiagramsTabs">
+                            <avalondock:LayoutDocument Title="">
+                                <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"  Name="DiagramField">
+                                    <s:DesignerCanvas Focusable="true" x:Name="MyDesigner" Background="{StaticResource WindowBackgroundBrush}" FocusVisualStyle="{x:Null}" ContextMenu="{StaticResource DesignerCanvasContextMenu}"/>
+                                </ScrollViewer>
+                            </avalondock:LayoutDocument>
+                        </avalondock:LayoutDocumentPane>
+                        <avalondock:LayoutDocumentPane>
+                            <avalondock:LayoutDocument Title="Исходный код элемента">
+                                <Grid VerticalAlignment="Stretch">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition  Height="Auto"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <TextBox Grid.Row="0" IsEnabled="False" Name="InputParam" FontStyle="Italic" FontWeight="Bold"></TextBox>
+                                    <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Name="PropertyField" VerticalAlignment="Stretch" Grid.Row="1">
+                                        <syntaxHighlightBox:SyntaxHighlightBox IsLineNumbersMarginVisible="True" Name="ElementCode" FontSize="14" TextChanged="ElementCode_OnTextChanged"/>
+                                    </ScrollViewer>
+                                    <TextBox Grid.Row="2" Name="OutputPraram" FontStyle="Italic" FontWeight="Bold" TextChanged="ElementCode_OnTextChanged"></TextBox>
+                                </Grid>
+                            </avalondock:LayoutDocument>
+                            <avalondock:LayoutDocument Title="Свойства элемента" >
+                                <StackPanel Margin="10" Name="PropertyStackPanel" Visibility="Collapsed">
+                                    <WindowsFormsHost Name="WindowsFormsHost1" Height="{Binding ElementName=PropertyStackPanel, Path=ActualHeight}" Width="{Binding ElementName=PropertyStackPanel, Path=ActualWidth}" >
+                                        <forms:PropertyGrid x:Name="SelectedObjectProperyGrid" />
+                                    </WindowsFormsHost>
+                                </StackPanel>
+                            </avalondock:LayoutDocument>
+                        </avalondock:LayoutDocumentPane>
+                    </avalondock:LayoutDocumentPaneGroup>
+                </avalondock:LayoutPanel>
+            </avalondock:LayoutRoot>
+        </avalonDock:DockingManager>
+        <StatusBar HorizontalAlignment="Stretch" Grid.Row="3">
+            <TextBlock Name="ErrorsBlock"></TextBlock>
+        </StatusBar>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿BlockLibrary_Pal
+
+
+library
+C#
+.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\
+BlockLibrary_Pal
+none
+false
+DEBUG;TRACE
+
+18-242706317
+
+232101830667
+13-438885062
+elements\Action_Element.xaml;elements\Action_ToolBox.xaml;elements\ArrowLeft_Element.xaml;elements\ArrowLeft_ToolBox.xaml;elements\ArrowRight_Element.xaml;elements\ArrowRight_ToolBox.xaml;elements\Begin_Element.xaml;elements\Begin_ToolBox.xaml;elements\End_Element.xaml;elements\End_ToolBox.xaml;elements\If_Element.xaml;elements\If_ToolBox.xaml;elements\Input_Element.xaml;elements\Input_ToolBox.xaml;elements\Output_Element.xaml;elements\Output_ToolBox.xaml;elements\TempUserControl1.xaml;elements\TestUserControl1.xaml;
+
+False
+

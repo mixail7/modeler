@@ -1,0 +1,31 @@
+﻿<Window x:Class="DiagramDesigner.UserPalleter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:DiagramDesigner="clr-namespace:DiagramDesigner" Title="UserPalleter" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+  <Window.Resources>
+    <HierarchicalDataTemplate DataType="{x:Type DiagramDesigner:PalleterInfo}"
+                              ItemsSource="{Binding Path=elements}">
+      <TextBlock Text="{Binding Path=Name}"></TextBlock>
+    </HierarchicalDataTemplate>
+    <DataTemplate DataType="{x:Type DiagramDesigner:ElementInfo}">
+      <StackPanel Orientation="Horizontal">
+        <CheckBox IsChecked="{Binding Path=IsSelected, Mode=TwoWay}"></CheckBox>
+        <TextBlock Text="{Binding Path=Name}"></TextBlock>
+      </StackPanel>
+    </DataTemplate>
+  </Window.Resources>
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition></RowDefinition>
+      <RowDefinition Height="30"></RowDefinition>
+    </Grid.RowDefinitions>
+    <TreeView Name="MainTree"></TreeView>
+    <Grid Grid.Row="1">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition></ColumnDefinition>
+        <ColumnDefinition></ColumnDefinition>
+      </Grid.ColumnDefinitions>
+      <Button Click="Button_Click_1">Сохранить</Button>
+      <Button Grid.Column="1" Click="Button_Click">Отмена</Button>
+    </Grid>
+  </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿ActyvityDiagram_Pal
+
+
+library
+C#
+.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\ActyvityDiagram_Pal\obj\Debug\
+ActyvityDiagram_Pal
+none
+false
+DEBUG;TRACE
+
+30-974742177
+
+35-1956241802
+131797865762
+elements\AD_Action_Element.xaml;elements\AD_Action_ToolBox.xaml;elements\AD_Division2_Element.xaml;elements\AD_Division2_ToolBox.xaml;elements\AD_Merge2_Element.xaml;elements\AD_Merge2_ToolBox.xaml;elements\AD_Begin_Element.xaml;elements\AD_Begin_ToolBox.xaml;elements\AD_EndCondition_Element.xaml;elements\AD_EndCondition_ToolBox.xaml;elements\AD_End_Element.xaml;elements\AD_End_ToolBox.xaml;elements\AD_Condition_Element.xaml;elements\AD_Condition_ToolBox.xaml;elements\AD_Division3_Element.xaml;elements\AD_Division3_ToolBox.xaml;elements\AD_Merge3_Element.xaml;elements\AD_Merge3_ToolBox.xaml;elements\AD_Precondition_Element.xaml;elements\AD_Precondition_ToolBox.xaml;elements\AD_SendSignal_Element.xaml;elements\AD_SendSignal_ToolBox.xaml;elements\AD_Receptio_Element.xaml;elements\AD_Reception_ToolBox.xaml;elements\AD_ActionTime_Element.xaml;elements\AD_ActionTime_ToolBox.xaml;elements\AD_EndThread_Element.xaml;elements\AD_EndThread_ToolBox.xaml;elements\AD_Object_Element.xaml;elements\AD_Object_ToolBox.xaml;
+
+False
+

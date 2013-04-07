@@ -1,0 +1,231 @@
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\Result\BlockLibrary_Pal.dll
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\Result\BlockLibrary_Pal.pdb
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_Element.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_ToolBox.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TempUserControl1.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TestUserControl1.baml
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_Element.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_ToolBox.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TempUserControl1.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TestUserControl1.g.cs
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.g.resources
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.dll
+C:\Documents and Settings\Администратор\Мои документы\ДИПЛОМ\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.pdb
+D:\diagram_2011_02_26_1\Work\Mix\Result\BlockLibrary_Pal.dll
+D:\diagram_2011_02_26_1\Work\Mix\Result\BlockLibrary_Pal.pdb
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ResolveAssemblyReference.cache
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_Element.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_ToolBox.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TempUserControl1.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TestUserControl1.baml
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Action_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowLeft_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\ArrowRight_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Begin_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\End_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\If_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Input_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_Element.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\Output_ToolBox.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TempUserControl1.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\TestUserControl1.g.cs
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal_MarkupCompile.cache
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.g.resources
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.dll
+D:\diagram_2011_02_26_1\Work\Mix\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\bin\Debug\BlockLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\bin\Debug\BlockLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Action_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Action_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowLeft_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowLeft_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowRight_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowRight_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Begin_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Begin_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\End_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\End_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\If_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\If_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Input_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Input_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Output_Element.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Output_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\TempUserControl1.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\TestUserControl1.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Action_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Action_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowLeft_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowLeft_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowRight_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\ArrowRight_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Begin_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Begin_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\End_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\End_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\If_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\If_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Input_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Input_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Output_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\Output_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\TempUserControl1.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\TestUserControl1.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.g.resources
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\BlockLibrary_Pal.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\BlockLibrary_Pal.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.g.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\bin\Debug\BlockLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\bin\Debug\BlockLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_Element.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\TempUserControl1.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\TestUserControl1.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\TempUserControl1.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\elements\TestUserControl1.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.g.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\BlockLibrary_Pal\obj\Debug\BlockLibrary_Pal.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_Element.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_ToolBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\TempUserControl1.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\TestUserControl1.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Action_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowLeft_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\ArrowRight_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Begin_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\End_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\If_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Input_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_Element.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\Output_ToolBox.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\TempUserControl1.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\BlockLibrary_Pal\obj\Debug\elements\TestUserControl1.g.cs

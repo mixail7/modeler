@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="ActyvityDiagram_Pal.AD_Precondition_Element"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:Controls="clr-namespace:DiagramDesigner.Controls;assembly=DiagramDesigner"
+             xmlns:controls="clr-namespace:DiagramDesigner.Controls;assembly=Modeler" mc:Ignorable="d" x:ClassModifier="internal" d:DesignHeight="40" d:DesignWidth="100">
+  <Grid>
+    <Border Name="MainBorder" BorderBrush="{Binding BorderBrush}" BorderThickness="2" CornerRadius="0" HorizontalAlignment="Stretch">
+      <TextBlock Text="{Binding Path=TextValue}" VerticalAlignment="Center" HorizontalAlignment="Center" />
+    </Border>
+        <Path  Name="Bend" Stroke="Black">
+            <Path.Data>M 85,0 L 95,10 L 100, 5 L 100, 0 Z</Path.Data>
+        </Path>
+        <controls:DragThumb>
+    </controls:DragThumb>
+  </Grid>
+</UserControl>

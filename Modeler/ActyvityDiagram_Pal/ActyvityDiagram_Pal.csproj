@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09FACDEF-E61F-452A-B75E-DF66C39F8A68}</ProjectGuid>
+    <OutputType>library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ActyvityDiagram_Pal</RootNamespace>
+    <AssemblyName>ActyvityDiagram_Pal</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Modeler">
+      <HintPath>..\bin\Debug\Modeler.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="elements\AD_Division2_Element.xaml.cs">
+      <DependentUpon>AD_Division2_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Division2_ToolBox.xaml.cs">
+      <DependentUpon>AD_Division2_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Merge2_Element.xaml.cs">
+      <DependentUpon>AD_Merge2_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Merge2_ToolBox.xaml.cs">
+      <DependentUpon>AD_Merge2_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_EndCondition_Element.xaml.cs">
+      <DependentUpon>AD_EndCondition_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_EndCondition_ToolBox.xaml.cs">
+      <DependentUpon>AD_EndCondition_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Precondition_Element.xaml.cs">
+      <DependentUpon>AD_Precondition_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Precondition_ToolBox.xaml.cs">
+      <DependentUpon>AD_Precondition_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_SendSignal_Element.xaml.cs">
+      <DependentUpon>AD_SendSignal_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_SendSignal_ToolBox.xaml.cs">
+      <DependentUpon>AD_SendSignal_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Receptio_Element.xaml.cs">
+      <DependentUpon>AD_Receptio_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Reception_ToolBox.xaml.cs">
+      <DependentUpon>AD_Reception_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_ActionTime_Element.xaml.cs">
+      <DependentUpon>AD_ActionTime_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_ActionTime_ToolBox.xaml.cs">
+      <DependentUpon>AD_ActionTime_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_EndThread_Element.xaml.cs">
+      <DependentUpon>AD_EndThread_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_EndThread_ToolBox.xaml.cs">
+      <DependentUpon>AD_EndThread_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Object_Element.xaml.cs">
+      <DependentUpon>AD_Object_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Object_ToolBox.xaml.cs">
+      <DependentUpon>AD_Object_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Page Include="elements\AD_Action_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Action_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Division2_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Division2_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Merge2_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Merge2_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Begin_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Begin_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_EndCondition_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_EndCondition_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_End_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_End_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Condition_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Condition_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Division3_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Division3_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Merge3_Element.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="elements\AD_Merge3_ToolBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="elements\AD_Action_Element.xaml.cs">
+      <DependentUpon>AD_Action_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Action_ToolBox.xaml.cs">
+      <DependentUpon>AD_Action_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Begin_Element.xaml.cs">
+      <DependentUpon>AD_Begin_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Begin_ToolBox.xaml.cs">
+      <DependentUpon>AD_Begin_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_End_Element.xaml.cs">
+      <DependentUpon>AD_End_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_End_ToolBox.xaml.cs">
+      <DependentUpon>AD_End_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Condition_Element.xaml.cs">
+      <DependentUpon>AD_Condition_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Condition_ToolBox.xaml.cs">
+      <DependentUpon>AD_Condition_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Division3_Element.xaml.cs">
+      <DependentUpon>AD_Division3_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Division3_ToolBox.xaml.cs">
+      <DependentUpon>AD_Division3_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Merge3_Element.xaml.cs">
+      <DependentUpon>AD_Merge3_Element.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="elements\AD_Merge3_ToolBox.xaml.cs">
+      <DependentUpon>AD_Merge3_ToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Paletter.cs" />
+    <Page Include="elements\AD_Precondition_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_Precondition_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_SendSignal_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_SendSignal_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_Receptio_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_Reception_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_ActionTime_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_ActionTime_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_EndThread_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_EndThread_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_Object_Element.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="elements\AD_Object_ToolBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

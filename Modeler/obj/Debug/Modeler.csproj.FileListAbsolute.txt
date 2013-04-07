@@ -1,0 +1,131 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\Modeler.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\Modeler.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AvalonDock.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AvalonDock.Themes.VS2010.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AvalonDock.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AvalonDock.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AvalonDock.Themes.VS2010.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\de\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\es\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\fr\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\hu\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\it\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\pt-BR\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\ro\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\ru\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\sv\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\zh-Hans\AvalonDock.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Styles\Expander.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Styles\GroupBox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Styles\ScrollBar.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Styles\Shared.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Styles\ToolBar.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\App.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\ApplicationToolbar.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Connection.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\DesignerItem.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Stencils\ShapeStencils.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\Toolbox.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Resources\ToolboxItem.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler.g.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler.pdb
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Modeler.exe
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Modeler.pdb
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\bin\Debug\Modeler.exe
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\bin\Debug\Modeler.pdb
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\CommentWindow.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\PropertyEditor\StringArrayWindow.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Styles\Expander.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Styles\GroupBox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Styles\ScrollBar.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Styles\Shared.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Styles\ToolBar.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\CommentWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\PropertyEditor\StringArrayWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\UserPalleter.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Modeler_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Modeler_MarkupCompile.lref
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\App.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\MainWindow.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\ApplicationToolbar.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Connection.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\DesignerItem.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Stencils\ShapeStencils.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\Toolbox.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Resources\ToolboxItem.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\UserPalleter.baml
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Modeler.g.resources
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\Modeler.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Test\Modeler_4\Modeler\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\Modeler.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\bin\Debug\Modeler.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\bin\Debug\Modeler.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\DiagramEditor\CommentWindow.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\DiagramEditor\PropertyEditor\StringArrayWindow.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\modeler\ModelerTreeView.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\modeler\RenameWindow.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Styles\Expander.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Styles\GroupBox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Styles\ScrollBar.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Styles\Shared.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Styles\ToolBar.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\DiagramEditor\CommentWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\DiagramEditor\PropertyEditor\StringArrayWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\modeler\ModelerTreeView.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\modeler\RenameWindow.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\DiagramEditor\UserPalleter.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Modeler_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Modeler_MarkupCompile.lref
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\App.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\MainWindow.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\ApplicationToolbar.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Connection.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\DesignerItem.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Stencils\ShapeStencils.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\Toolbox.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Resources\ToolboxItem.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\DiagramEditor\UserPalleter.baml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Modeler.g.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Modeler.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Modeler.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2010\Projects\Modeler\obj\Debug\Modeler.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\bin\Debug\AurelienRibon.Ui.SyntaxHighlightBox.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\DiagramEditor\CommentWindow.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\DiagramEditor\PropertyEditor\StringArrayWindow.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\modeler\ModelerTreeView.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\modeler\RenameWindow.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\DiagramEditor\CommentWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\DiagramEditor\PropertyEditor\StringArrayWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\modeler\ModelerTreeView.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\modeler\RenameWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\DiagramEditor\UserPalleter.g.cs
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\DiagramEditor\UserPalleter.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\modeler\CodeViewer.baml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Modeler\Modeler\obj\Debug\modeler\CodeViewer.g.cs

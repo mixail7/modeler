@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modeler", "Modeler\Modeler.csproj", "{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{10A9ECD3-AE1E-494D-9A27-8A32DD581759} = {10A9ECD3-AE1E-494D-9A27-8A32DD581759}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActyvityDiagram_Pal", "Modeler\ActyvityDiagram_Pal\ActyvityDiagram_Pal.csproj", "{09FACDEF-E61F-452A-B75E-DF66C39F8A68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A} = {E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockLibrary_Pal", "Modeler\BlockLibrary_Pal\BlockLibrary_Pal.csproj", "{53EF9872-78ED-4AD0-9BF4-AC9E7228C4BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A} = {E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AurelienRibon.Ui.SyntaxHighlightBox", "Modeler\AurelienRibon.Ui.SyntaxHighlightBox\AurelienRibon.Ui.SyntaxHighlightBox.csproj", "{10A9ECD3-AE1E-494D-9A27-8A32DD581759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B0369B-C2EB-4AC3-9E07-1FB8297E095A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FACDEF-E61F-452A-B75E-DF66C39F8A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FACDEF-E61F-452A-B75E-DF66C39F8A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FACDEF-E61F-452A-B75E-DF66C39F8A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FACDEF-E61F-452A-B75E-DF66C39F8A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EF9872-78ED-4AD0-9BF4-AC9E7228C4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EF9872-78ED-4AD0-9BF4-AC9E7228C4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EF9872-78ED-4AD0-9BF4-AC9E7228C4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EF9872-78ED-4AD0-9BF4-AC9E7228C4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A9ECD3-AE1E-494D-9A27-8A32DD581759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A9ECD3-AE1E-494D-9A27-8A32DD581759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A9ECD3-AE1E-494D-9A27-8A32DD581759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A9ECD3-AE1E-494D-9A27-8A32DD581759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
