@@ -1,0 +1,28 @@
+using testcoco;
+
+COMPILER Sample
+//IGNORECASE
+public SemanticProc Sem = new SemanticProc();
+CHARACTERS				
+	backLine = '\\'.	
+	endl = '\n'.
+	symbol = ANY - endl - backLine.
+	pt = '*'.	
+TOKENS		
+	ident = backLine symbol{symbol} backLine.	
+	cond = pt {symbol} pt.
+	eol = endl.	
+	
+	COMMENTS FROM "/*" TO "*/" NESTED
+	COMMENTS FROM "//" TO "\r\n"	
+	
+	IGNORE '\t' + '\r'
+	
+PRODUCTIONS
+	Sample = "Begin" GraphName eol{eol} {Statment} "End".
+	GraphName = ident (. Sem.SetGraphName(t.val); .).
+	Statment(. Statment st = new Statment(); Token ifTn = null, elseTn = null; .) = ident(. st.Tok = Sem.OptTok(t); .) [IfStatment<out ifTn> | ElseStatment<out elseTn>] eol{eol} 
+							   {cond(. st.Prop.Add(Sem.OptTok(t)); .) eol} (. st.IfTok = Sem.OptTok(ifTn); st.ElseTok = Sem.OptTok(elseTn); Sem.AddStatment(st); .).	
+	IfStatment<.out Token tn.> = "if" ident(. tn = t; .).
+	ElseStatment<.out Token tn.> = "else"(. tn = t; .).
+END Sample.

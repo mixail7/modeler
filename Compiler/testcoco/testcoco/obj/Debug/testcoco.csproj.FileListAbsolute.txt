@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\testcoco\testcoco\bin\Debug\testcoco.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\testcoco\testcoco\bin\Debug\testcoco.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\testcoco\testcoco\obj\Debug\testcoco.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\testcoco\testcoco\obj\Debug\testcoco.pdb
